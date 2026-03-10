@@ -7,8 +7,8 @@
 
 | スキル | 概要 |
 |--------|------|
-| [self-analysis](self-analysis/) | 対話形式のインタビューで経験・価値観・強み・弱みを引き出し、客観的な自己分析レポートを生成する |
-| [interview-prep](interview-prep/) | 模擬面接・回答作成・回答添削の3モードで面接対策を支援する |
+| [self-analysis](skills/self-analysis/) | 対話形式のインタビューで経験・価値観・強み・弱みを引き出し、客観的な自己分析レポートを生成する |
+| [interview-prep](skills/interview-prep/) | 模擬面接・回答作成・回答添削の3モードで面接対策を支援する |
 
 ## インストール
 
@@ -19,8 +19,8 @@ npx skills add manmaru-ai/shukatsu-skills
 または個別にインストール:
 
 ```bash
-npx skills add manmaru-ai/shukatsu-skills/self-analysis
-npx skills add manmaru-ai/shukatsu-skills/interview-prep
+npx skills add manmaru-ai/shukatsu-skills/skills/self-analysis
+npx skills add manmaru-ai/shukatsu-skills/skills/interview-prep
 ```
 
 ## 使い方
